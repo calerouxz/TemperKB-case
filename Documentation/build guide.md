@@ -32,7 +32,7 @@ Repeat these 4 steps on the other side.
 
 This is how the completed assembly should look like:
 
-<img src="https://github.com/calerouxz/TemperKB-case/blob/48376b97938b83fd0fbdd340735973a9ecba7853/Images/CAD%20assembly/pcb%20assy.png" width=300>
+<img src="https://github.com/calerouxz/TemperKB-case/blob/48376b97938b83fd0fbdd340735973a9ecba7853/Images/CAD%20assembly/pcb%20assy.png" width=500>
 
 
 ## Assemble the keyboard
