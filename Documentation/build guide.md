@@ -37,11 +37,30 @@ This is how the completed assembly should look like:
 
 ## Assemble the keyboard
 1. Place 5 o-rings on their respective pockets on the **case base**.
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/82369f6a1ac1d56096abe5ce91c8cc77ed2fc969/Images/CAD%20assembly/o%20rings%20completed.png" width=300>
+
 2. Place the PCB assembly on the case base, making sure the mounting points line up over the o-rings and their pockets.
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/82369f6a1ac1d56096abe5ce91c8cc77ed2fc969/Images/CAD%20assembly/place%20pcb%20assy.png" width=300>
+
 3. Place the power switch cover, lining up the small tab on the on/off switch with the power switch cover's slot.
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/82369f6a1ac1d56096abe5ce91c8cc77ed2fc969/Images/CAD%20assembly/power%20switch%20cover.png" width=300>
+
 4. Place the top cover on the case base.
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/82369f6a1ac1d56096abe5ce91c8cc77ed2fc969/Images/CAD%20assembly/place%20top%20cover.png" width=300>
+
 5. Screw 5 M2x10mm screws on protrusions, These should line up with the switch plate and o-ring.
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/82369f6a1ac1d56096abe5ce91c8cc77ed2fc969/Images/CAD%20assembly/screw%20top%20cover.png" width=300>
+
 6. Screw 1 M2x6mm screw on the additional tab of the top cover to secure it to the bottom base.
 7. Place the feet on the bottom of the assembly.
 
 Repeat these 7 steps on the other side.
+
+This is how the completed case assembly should look like:
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/82369f6a1ac1d56096abe5ce91c8cc77ed2fc969/Images/CAD%20assembly/completed%20assy.png" width=500>
