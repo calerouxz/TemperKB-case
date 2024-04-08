@@ -1,6 +1,8 @@
 # Temper Gasket Case
 This is a case for [Raeedcho's **Temper**](https://github.com/raeedcho/temper) keyboard.
 
+<img src="https://github.com/calerouxz/TemperKB-case/blob/82369f6a1ac1d56096abe5ce91c8cc77ed2fc969/Images/CAD%20assembly/completed%20assy.png" width=700>
+
 ## Objectives for the case
 When designing this case for the [**Temper**](https://github.com/raeedcho/temper), I had the following objectives:
 
