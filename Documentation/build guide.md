@@ -1,5 +1,10 @@
 # Build guide
 ## Preparing the case base
+
+> [!IMPORTANT]
+> If you use the self-tap variant of the case, you can skip this step.
+> Keep in mind, this version of the case is **untested** by myself.
+
 You will first need to prepare the case base, inserting the heat-set inserts onto the base. You can use a soldering iron for this operation.
 
 <img src="https://github.com/calerouxz/TemperKB-case/blob/074e582819a92a4d95c419655db4bc0f5046c2de/Images/CAD%20assembly/Base%20heatsets.png" width=500>
