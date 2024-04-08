@@ -5,6 +5,10 @@ I designed most parts with a 0.20mm tolerance value. Using these values should g
 
 The holes on the switch plate and top cover have a 0.30mm tolerance value to make it easier to introduce the screws.
 
+Self-tap holes (on the **switch plate** and the optional **self-tap case base**) will have a 1.9mm hole (-0.01mm to standard M2) to get a tight fit.
+
+I plan to make the print available on makerworld for easy printing for those who own Bambulab printers.
+
 ## Switch plate
 The switch plate is not particularly difficul to print, but be mindful of your filament and the large flat area it requires, as with some filaments it could lead to warping. 
 
