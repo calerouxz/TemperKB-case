@@ -2,7 +2,7 @@
 ## Preparing the case base
 You will first need to prepare the case base, inserting the heat-set inserts onto the base. You can use a soldering iron for this operation.
 
-![heatsets](images/CAD assembly/Gasket case(19))
+![heatsets](Images/CAD assembly/Gasket case (19).png)
 
 - Insert 5 M2x3mm heat-set inserts into the mounting pockets. Repeat for the other side.
 - Insert 1 M2x4mm heat-set insert into the pole to hold the top cover. Repeat for the other side.
