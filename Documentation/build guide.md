@@ -9,6 +9,8 @@ You will first need to prepare the case base, inserting the heat-set inserts ont
 
 <img src="https://github.com/calerouxz/TemperKB-case/blob/074e582819a92a4d95c419655db4bc0f5046c2de/Images/CAD%20assembly/Base%20heatsets.png" width=300>
 
+<img src="https://github.com/calerouxz/TemperKB-case/blob/9b8007170aac9747909ca2e708a591d84ef99e18/Images/CAD%20assembly/Base%20pocket%20heatsets.png" width=300>
+
 - Insert 5 M2x3mm heat-set inserts into the mounting pockets. Repeat for the other side.
 - Insert 1 M2x4mm heat-set insert into the pole to hold the top cover. Repeat for the other side.
 
