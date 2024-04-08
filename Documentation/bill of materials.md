@@ -1,7 +1,7 @@
 # Bill of materials for Temper gasket case
 
 ## 3D printed materials
-Check the [3D print guide](Documentation/print%20guide.md) for details on how to print these parts.
+Check the 3D print guide for details on how to print these parts.
 |Material|qty|Comments|
 |---|---|---|
 |Switch plate, left|1|Mirror this left side to get the right side.|
