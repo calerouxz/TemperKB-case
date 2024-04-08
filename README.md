@@ -1,8 +1,8 @@
 # Temper Gasket Case
-This is a case for Raeedcho's **Temper** keyboard.
+This is a case for [Raeedcho's **Temper**](https://github.com/raeedcho/temper) keyboard.
 
 ## Objectives for the case
-When designing this case for the **Temper**, I had the following objectives:
+When designing this case for the [**Temper**](https://github.com/raeedcho/temper), I had the following objectives:
 
 1. Include a 'gasket' mounting method.
 2. Add some refinement to the case, creating a more end-product feeling design.
@@ -14,9 +14,9 @@ Keep in mind that this is a relatively complex assembly and *does* require addit
 ## Documentation
 The following documentation is meant to help you build the case:
 
-1. BOM (Bill of Materials)
-2. 3D print guide
-3. Build guide
-4. Change log
+1. [BOM (Bill of Materials)](Documentation/bill%20of%20materials.md)
+2. [3D print guide](Documentation/print%20guide.md)
+3. [Build guide](Documentation/build%20guide.md)
+4. [Change log](Documentation/changelog.md)
 
 ## Pictures

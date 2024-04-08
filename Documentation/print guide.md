@@ -1,5 +1,10 @@
 # Print guide
 For context, I printed all parts using a Bambulab A1, using a 0.16mm layer height on all parts. 0.20mm layer heights will work as well.
+
+I designed most parts with a 0.20mm tolerance value. Using these values should give a tight fit.
+
+The holes on the switch plate and top cover have a 0.30mm tolerance value to make it easier to introduce the screws.
+
 ## Switch plate
 The switch plate is not particularly difficul to print, but be mindful of your filament and the large flat area it requires, as with some filaments it could lead to warping. 
 
@@ -35,6 +40,8 @@ I suggest turning on supports for the small pockets for the feet on the bottom, 
 Some filaments will require heavy brims to ensure you get no warping due to the large flat surface. 
 
 I printed using Bambulab matte charcoal PLA. This particular filament did prove problematic due to warping on some of my test prints. I had to clean the plate and use heavy brims to get the quality I wanted. I also did a test print in Hatchbox orange PLA with no issues using no brims.
+
+I have made available a self-tap version of the base model, having a 1.9mm screw clearance. Keep in mind I have personally not tested this version of the case.
 
 ## Case top cover
 The top cover should have similar settings to the case base. This part may or may not use brims debending on your particular filament. My particular filament did require a brim in order to keep warping to a minimum.
