@@ -1,7 +1,7 @@
 # Temper Gasket Case
 This is a case for [Raeedcho's **Temper**](https://github.com/raeedcho/temper) keyboard.
 
-<img src="https://github.com/calerouxz/TemperKB-case/blob/82369f6a1ac1d56096abe5ce91c8cc77ed2fc969/Images/CAD%20assembly/completed%20assy.png" width=700>
+<img src="https://github.com/calerouxz/TemperKB-case/blob/662fb7adbbb424a81dfe360ee6248b4d6863e042/Images/Pictures/Temper%20gasket%20case-09.jpg" width=700>
 
 ## Objectives for the case
 When designing this case for the [**Temper**](https://github.com/raeedcho/temper), I had the following objectives:
@@ -22,3 +22,11 @@ The following documentation is meant to help you build the case:
 4. [Change log](Documentation/changelog.md)
 
 ## Pictures
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/662fb7adbbb424a81dfe360ee6248b4d6863e042/Images/Pictures/Temper%20gasket%20case-11.jpg" width=700>
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/662fb7adbbb424a81dfe360ee6248b4d6863e042/Images/Pictures/Temper%20gasket%20case-02.jpg" width=700>
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/662fb7adbbb424a81dfe360ee6248b4d6863e042/Images/Pictures/Temper%20gasket%20case-01.jpg" width=700>
+
+<img src="https://github.com/calerouxz/TemperKB-case/blob/662fb7adbbb424a81dfe360ee6248b4d6863e042/Images/Pictures/Temper%20gasket%20case-08.jpg" width=700>
