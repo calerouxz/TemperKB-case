@@ -49,3 +49,5 @@ I have made available a self-tap version of the base model, having a 1.9mm screw
 
 ## Case top cover
 The top cover should have similar settings to the case base. This part may or may not use brims debending on your particular filament. My particular filament did require a brim in order to keep warping to a minimum.
+
+I printed using Bambulab matte charcoal PLA.
